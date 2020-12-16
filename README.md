@@ -1,4 +1,5 @@
 # SWIFT MT940 bank statement format JS parser
+## This if fork of https://github.com/a-fas/mt940js library without rounding amount
 
 [![Build Status](https://travis-ci.org/a-fas/mt940js.svg?branch=master)](https://travis-ci.org/a-fas/mt940js)
 [![NPM version](https://badge.fury.io/js/mt940js.svg)](https://badge.fury.io/js/mt940js)

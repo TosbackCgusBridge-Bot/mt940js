@@ -36,7 +36,7 @@ describe('Helpers', () => {
       });
 
       it('should round to 2 fractional digits', () => {
-        assert.equal(helpers.Amount.parse('C', '123,345'), 123.35);
+        assert.equal(helpers.Amount.parse('C', '123,345'), 123.345);
       });
 
       it('should fail if wrong indicator passed', () => {

@@ -8,6 +8,10 @@ Legend
 + : added
 - : removed
 
+2020-12-16 v1.3.5
+------------------
+* Remove rounding amount
+
 2019-12-30 v1.3.4
 ------------------
 * Dependencies update, npm audit fix
