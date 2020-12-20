@@ -1,6 +1,6 @@
 {
   "name": "mt940js-bank",
-  "version": "1.3.5",
+  "version": "1.4.0",
   "description": "javascript mt940 bank statement parser",
   "main": "index.js",
   "scripts": {
